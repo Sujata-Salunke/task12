@@ -1,0 +1,1 @@
+This project is a simple Compound Interest Calculator built using HTML, CSS, and JavaScript. It demonstrates the basics of JavaScript by calculating the compound interest and displaying the result in the browser console. The project helps beginners understand how to connect JavaScript with HTML, perform mathematical calculations, and use variables, operators, and console output.
